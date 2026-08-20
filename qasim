@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Qasim Sahito Academy</title>
+
+<style>
+
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f7fb;
+    color:#172033;
+}
+
+/* HEADER */
+
+header{
+    background:linear-gradient(135deg,#172554,#315bea,#6d4aff);
+    color:white;
+    padding:25px 20px;
+    text-align:center;
+}
+
+.logo{
+    width:65px;
+    height:65px;
+    margin:auto;
+    border-radius:18px;
+    background:white;
+    color:#315bea;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:23px;
+    font-weight:bold;
+}
+
+header h1{
+    margin-top:12px;
+    font-size:28px;
+}
+
+header p{
+    margin-top:7px;
+    opacity:.9;
+}
+
+
+/* HERO */
+
+.hero{
+    text-align:center;
+    padding:45px 20px;
+}
+
+.hero h2{
+    font-size:34px;
+    margin-bottom:12px;
+}
+
+.hero p{
+    color:#667085;
+    max-width:650px;
+    margin:auto;
+    line-height:1.6;
+}
+
+
+/* SUBJECTS */
+
+.section-title{
+    text-align:center;
+    margin:35px 20px 25px;
+}
+
+.section-title h2{
+    font-size:30px;
+}
+
+.subjects{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+    transition:.2s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.icon{
+    font-size:42px;
+    margin-bottom:15px;
+}
+
+.card h3{
+    margin-bottom:10px;
+}
+
+.card p{
+    color:#667085;
+    font-size:14px;
+    line-height:1.5;
+}
+
+
+/* PDF BUTTON */
+
+.pdf-button{
+    display:inline-block;
+    margin-top:18px;
+    padding:11px 16px;
+    background:#315bea;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.pdf-button:hover{
+    background:#172554;
+}
+
+
+/* RESOURCES */
+
+.resources{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:20px;
+}
+
+.resource{
+    background:white;
+    padding:25px;
+    border-radius:18px;
+    box-shadow:0 8px 25px rgba(0,0,0,.07);
+}
+
+.resource span{
+    color:#315bea;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.resource h3{
+    margin:10px 0;
+}
+
+.resource p{
+    color:#667085;
+    line-height:1.5;
+}
+
+
+/* ABOUT */
+
+.about{
+    max-width:1100px;
+    margin:50px auto;
+    padding:35px 20px;
+}
+
+.about-box{
+    background:#111a38;
+    color:white;
+    border-radius:25px;
+    padding:35px;
+    text-align:center;
+}
+
+.about-box p{
+    margin-top:12px;
+    color:#cbd3ee;
+    line-height:1.6;
+}
+
+
+/* FOOTER */
+
+footer{
+    margin-top:40px;
+    padding:25px;
+    text-align:center;
+    background:#111a38;
+    color:white;
+}
+
+
+/* MOBILE */
+
+@media(max-width:800px){
+
+    .subjects{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .resources{
+        grid-template-columns:1fr;
+    }
+
+}
+
+@media(max-width:500px){
+
+    .subjects{
+        grid-template-columns:1fr;
+    }
+
+    .hero h2{
+        font-size:27px;
+    }
+
+    header h1{
+        font-size:23px;
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<!-- ================= HEADER ================= -->
+
+<header>
+
+    <div class="logo">
+        QS
+    </div>
+
+    <h1>Qasim Sahito Academy</h1>
+
+    <p>Learn • Practice • Improve</p>
+
+</header>
+
+
+
+<!-- ================= HERO ================= -->
+
+<section class="hero">
+
+    <h2>Welcome to Qasim Sahito Academy</h2>
+
+    <p>
+        Mathematics, Physics, Computer Science and English
+        کے Notes, Exercises, MCQs اور PDF Study Material
+        ایک ہی جگہ پر۔
+    </p>
+
+</section>
+
+
+
+<!-- ================= SUBJECTS ================= -->
+
+<div class="section-title">
+
+    <h2>Our Subjects</h2>
+
+</div>
+
+
+<section class="subjects">
+
+
+    <!-- MATHEMATICS -->
+
+    <div class="card">
+
+        <div class="icon">
+            📐
+        </div>
+
+        <h3>
+            Mathematics
+        </h3>
+
+        <p>
+            Mathematics Notes, Exercises,
+            MCQs اور Practice Material
+        </p>
+
+        <!-- YOUR MATHEMATICS PDF LINK -->
+
+        <a
+        class="pdf-button"
+        href="https://drive.google.com/file/d/1nUWl5wth0se48eBI1OJdbVDqel4MgFM1/view?usp=drivesdk"
+        target="_blank">
+
+            📄 Open Mathematics PDF
+
+        </a>
+
+    </div>
+
+
+
+    <!-- PHYSICS -->
+
+    <div class="card">
+
+        <div class="icon">
+            ⚛️
+        </div>
+
+        <h3>
+            Physics
+        </h3>
+
+        <p>
+            Physics Notes, Numericals,
+            MCQs اور Exercises
+        </p>
+
+        <!-- FUTURE PHYSICS PDF LINK -->
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Physics PDF will be added soon.'); return false;">
+
+            📄 Open PDF
+
+        </a>
+
+    </div>
+
+
+
+    <!-- COMPUTER -->
+
+    <div class="card">
+
+        <div class="icon">
+            💻
+        </div>
+
+        <h3>
+            Computer
+        </h3>
+
+        <p>
+            Computer Notes, Theory,
+            MCQs اور Exercises
+        </p>
+
+        <!-- FUTURE COMPUTER PDF LINK -->
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Computer PDF will be added soon.'); return false;">
+
+            📄 Open PDF
+
+        </a>
+
+    </div>
+
+
+
+    <!-- ENGLISH -->
+
+    <div class="card">
+
+        <div class="icon">
+            🔤
+        </div>
+
+        <h3>
+            English
+        </h3>
+
+        <p>
+            English Grammar, Exercises,
+            Vocabulary اور Practice Material
+        </p>
+
+        <!-- FUTURE ENGLISH PDF LINK -->
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('English PDF will be added soon.'); return false;">
+
+            📄 Open PDF
+
+        </a>
+
+    </div>
+
+
+</section>
+
+
+
+<!-- ================= LATEST RESOURCES ================= -->
+
+<div class="section-title">
+
+    <h2>
+        Latest Study Resources
+    </h2>
+
+</div>
+
+
+<section class="resources">
+
+
+    <!-- MATHEMATICS RESOURCE -->
+
+    <div class="resource">
+
+        <span>
+            MATHEMATICS • PDF
+        </span>
+
+        <h3>
+            Mathematics Study Material
+        </h3>
+
+        <p>
+            Mathematics کے Notes,
+            Exercises اور Practice Material
+        </p>
+
+        <a
+        class="pdf-button"
+        href="https://drive.google.com/file/d/1nUWl5wth0se48eBI1OJdbVDqel4MgFM1/view?usp=drivesdk"
+        target="_blank">
+
+            Open Mathematics PDF →
+
+        </a>
+
+    </div>
+
+
+
+    <!-- PHYSICS RESOURCE -->
+
+    <div class="resource">
+
+        <span>
+            PHYSICS • PDF
+        </span>
+
+        <h3>
+            Physics Study Material
+        </h3>
+
+        <p>
+            یہاں بعد میں اپنی Physics
+            PDF کا link add کریں۔
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Physics PDF will be added soon.'); return false;">
+
+            Open Physics PDF →
+
+        </a>
+
+    </div>
+
+
+
+    <!-- COMPUTER RESOURCE -->
+
+    <div class="resource">
+
+        <span>
+            COMPUTER • PDF
+        </span>
+
+        <h3>
+            Computer Study Material
+        </h3>
+
+        <p>
+            یہاں بعد میں اپنی Computer
+            PDF کا link add کریں۔
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Computer PDF will be added soon.'); return false;">
+
+            Open Computer PDF →
+
+        </a>
+
+    </div>
+
+
+
+    <!-- ENGLISH RESOURCE -->
+
+    <div class="resource">
+
+        <span>
+            ENGLISH • PDF
+        </span>
+
+        <h3>
+            English Study Material
+        </h3>
+
+        <p>
+            یہاں بعد میں اپنی English
+            PDF کا link add کریں۔
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('English PDF will be added soon.'); return false;">
+
+            Open English PDF →
+
+        </a>
+
+    </div>
+
+
+</section>
+
+
+
+<!-- ================= ABOUT ================= -->
+
+<section class="about">
+
+    <div class="about-box">
+
+        <h2>
+            About Qasim Sahito Academy
+        </h2>
+
+        <p>
+            A student-friendly study platform
+            for Mathematics, Physics, Computer
+            Science and English.
+        </p>
+
+    </div>
+
+</section>
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    © 2026 Qasim Sahito Academy
+
+    <br>
+
+    Educational Study Resource Website
+
+</footer>
+
+
+</body>
+
+</html>
