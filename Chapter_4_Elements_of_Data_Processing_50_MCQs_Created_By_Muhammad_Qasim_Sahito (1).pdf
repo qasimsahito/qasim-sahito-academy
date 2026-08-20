@@ -1,0 +1,2648 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 10 0 R 14 0 R 18 0 R 22 0 R 26 0 R 30 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6110
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 771.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 66.73346 0 Td (Chapter 4 \227 Elements of Data Processing) Tj T* -66.73346 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 747.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 130.4185 0 Td (Practice Test: 50 Multiple Choice Questions \(MCQs\)) Tj T* -130.4185 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 719.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (1. The process of producing a set of instructions called a program is known as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 703.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 675.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 661.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Flowcharting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.3701 cm
+Q
+q
+1 0 0 1 51.35433 641.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (2. A program makes a computer perform a:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 625.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Random activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 611.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Specific activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 597.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Physical activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 583.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Manual activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 577.3701 cm
+Q
+q
+1 0 0 1 51.35433 563.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (3. Computers do not solve problems by themselves; they:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Make decisions independently) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 533.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Carry out instructions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 519.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Create programs automatically) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 505.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Change the input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 499.3701 cm
+Q
+q
+1 0 0 1 51.35433 485.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (4. Who decides what steps the computer should take?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Computer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 455.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Programmer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 441.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) User only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 427.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Compiler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 421.3701 cm
+Q
+q
+1 0 0 1 51.35433 407.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (5. The form of input and output is specified by the:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 391.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Programmer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 377.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Computer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 363.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Printer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 349.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 343.3701 cm
+Q
+q
+1 0 0 1 51.35433 329.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (6. A plan for solving a problem is coded in a:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 313.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Machine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 299.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Programming language) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 285.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 271.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Flowchart only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 265.3701 cm
+Q
+q
+1 0 0 1 51.35433 251.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (7. A program is translated into machine code by a:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 235.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Keyboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 221.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Translating program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 207.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Monitor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 193.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Printer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 187.3701 cm
+Q
+q
+1 0 0 1 51.35433 173.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (8. Which of the following is a translating program?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 157.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Compiler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 143.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 129.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Assembler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 115.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) All of these) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 109.3701 cm
+Q
+q
+1 0 0 1 51.35433 95.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (9. After translation into machine code, the program is ready to be:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 79.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Deleted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 65.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Executed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 51.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Printed) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 6141
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Designed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 774.3701 cm
+Q
+q
+1 0 0 1 51.35433 760.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (10. During execution, the steps in the program are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Ignored) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Carried out) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 716.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Deleted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 702.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Rewritten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 696.3701 cm
+Q
+q
+1 0 0 1 51.35433 682.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (11. The first step in the evaluation from problem to program solution is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 652.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Defining the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 638.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Final output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.3701 cm
+Q
+q
+1 0 0 1 51.35433 604.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (12. The second step in the programming process is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 588.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Analysing the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 574.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 560.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+Q
+q
+1 0 0 1 51.35433 526.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (13. Which comes after analysing the problem?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 510.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Final output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 468.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 462.3701 cm
+Q
+q
+1 0 0 1 51.35433 448.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (14. Flowcharting comes after:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 418.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Final output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 390.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 384.3701 cm
+Q
+q
+1 0 0 1 51.35433 370.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (15. Coding means:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 354.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Testing the computer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Programming the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 326.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Defining the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 312.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Producing output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 306.3701 cm
+Q
+q
+1 0 0 1 51.35433 292.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (16. Which is the sixth stage of the programming process?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 276.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 262.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Processing the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 248.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 234.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 228.3701 cm
+Q
+q
+1 0 0 1 51.35433 214.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (17. Debugging and testing the program is the:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 198.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) 3rd stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 184.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) 5th stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 170.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) 7th stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) 8th stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 150.3701 cm
+Q
+q
+1 0 0 1 51.35433 136.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (18. The final stage of the programming process is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 120.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Final output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 106.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 92.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 78.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Flowcharting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 72.37008 cm
+Q
+q
+1 0 0 1 51.35433 58.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (19. Problem definition and program design generally receive what percentage of development time?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 16 0 R
+/F2 8 0 R
+/F2-0 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 6253
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) 20%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 766.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) 30%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 752.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) 40%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 738.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) 50%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 732.3701 cm
+Q
+q
+1 0 0 1 51.35433 718.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (20. Program coding generally receives:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 702.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) 10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) 20%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 674.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) 40%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 660.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) 60%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 654.3701 cm
+Q
+q
+1 0 0 1 51.35433 640.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (21. Program debugging, testing and documentation receive:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) 20%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 610.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) 30%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 596.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) 40%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) 50%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 576.3701 cm
+Q
+q
+1 0 0 1 51.35433 562.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (22. Total development time allocated in the given distribution is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) 80%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 532.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) 90%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 518.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) 100%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 504.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) 120%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 498.3701 cm
+Q
+q
+1 0 0 1 51.35433 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (23. Before any other steps can be taken, one must:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 468.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Code the program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 454.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Define the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 440.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Debug the program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 426.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Execute the program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 420.3701 cm
+Q
+q
+1 0 0 1 51.35433 406.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (24. Defining the problem means studying it to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 390.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Change it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 376.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Understand it completely) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 362.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Delete it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 348.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Complicate it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 342.3701 cm
+Q
+q
+1 0 0 1 51.35433 328.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (25. Which question helps in defining a problem?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 312.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Does problem solving require a computer?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 298.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) What is the computer's color?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 284.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Who owns the computer?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 270.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) What is the computer's price?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 264.3701 cm
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (26. While defining a problem, we determine whether the available computer is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 234.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Expensive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 220.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Capable of solving the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 206.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) New) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Portable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 186.3701 cm
+Q
+q
+1 0 0 1 51.35433 172.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (27. Which of the following must be decided while defining the problem?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Programming language) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 142.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Computer color) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 128.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Keyboard size) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 114.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Monitor brand) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 108.3701 cm
+Q
+q
+1 0 0 1 51.35433 94.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (28. The inputs and expected outputs should be identified during:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 78.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Defining the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 64.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 50.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Final output) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F2-0 21 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 6270
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 774.3701 cm
+Q
+q
+1 0 0 1 51.35433 760.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (29. \223How must data be manipulated to produce the desired output?\224 is a question related to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Defining the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Printing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 716.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Hardware installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 702.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Debugging only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 696.3701 cm
+Q
+q
+1 0 0 1 51.35433 682.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (30. The process of understanding the problem is called:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 652.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Problem analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 638.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.3701 cm
+Q
+q
+1 0 0 1 51.35433 604.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (31. The goal of problem analysis is the formal and logical presentation of the problem for:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 588.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Manual solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 574.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Computer solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 560.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Printing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Drawing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+Q
+q
+1 0 0 1 51.35433 526.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (32. Analysis of a problem requires the programmer to recognize the:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 510.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Printer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Monitor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 468.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Keyboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 462.3701 cm
+Q
+q
+1 0 0 1 51.35433 448.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (33. During problem analysis, the programmer identifies inputs and:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Printers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 418.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Variables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Monitors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 390.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Files only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 384.3701 cm
+Q
+q
+1 0 0 1 51.35433 370.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (34. The programmer should list the desired:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 354.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Inputs only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Outputs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 326.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 312.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 306.3701 cm
+Q
+q
+1 0 0 1 51.35433 292.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (35. A precise problem statement is formulated during:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 276.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Problem analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 262.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Final output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 248.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Coding only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 234.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 228.3701 cm
+Q
+q
+1 0 0 1 51.35433 214.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (36. During problem analysis, it is determined whether a ______ is needed for the solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 198.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Printer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 184.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Computer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 170.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Keyboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Scanner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 150.3701 cm
+Q
+q
+1 0 0 1 51.35433 136.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (37. During problem analysis, all elements in the problem are determined:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 120.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Randomly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 106.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Precisely) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 92.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Approximately) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 78.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Secretly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 72.37008 cm
+Q
+q
+1 0 0 1 51.35433 58.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (38. Input and output conditions should be:) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/F2-0 25 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 6264
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Ignored) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 766.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Specified) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 752.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Changed randomly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 738.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Deleted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 732.3701 cm
+Q
+q
+1 0 0 1 51.35433 718.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (39. Elements to be processed are converted into:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 702.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Qualitative terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Quantitative terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 674.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Graphic terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 660.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Verbal terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 654.3701 cm
+Q
+q
+1 0 0 1 51.35433 640.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (40. The operations and manipulations required to produce desired results must be determined as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Pictures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 610.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 596.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Outputs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 576.3701 cm
+Q
+q
+1 0 0 1 51.35433 562.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (41. In problem analysis, the ______ of steps is ascertained.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Cost) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 532.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 518.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Color) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 504.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Size) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 498.3701 cm
+Q
+q
+1 0 0 1 51.35433 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (42. Relationships among all elements entering into the problem's solution are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 468.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Ignored) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 454.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Established) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 440.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Deleted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 426.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Printed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 420.3701 cm
+Q
+q
+1 0 0 1 51.35433 406.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (43. The word algorithm originates from the word:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 390.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Algebra) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 376.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Algorism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 362.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Algorithmic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 348.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Arithmetic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 342.3701 cm
+Q
+q
+1 0 0 1 51.35433 328.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (44. Algorism means:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 312.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Art of programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 298.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Art of computing with Arabic numerals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 284.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Art of drawing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 270.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Art of coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 264.3701 cm
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (45. The word algorithm is in honour of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 234.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Isaac Newton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 220.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Abu Jafar Muhammad Ibn Musa Al-Khwarizmi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 206.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Albert Einstein) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Aristotle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 186.3701 cm
+Q
+q
+1 0 0 1 51.35433 172.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (46. Al-Khwarizmi was a famous:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 156.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Computer scientist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 142.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Arab mathematician) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 128.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Physicist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 114.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Programmer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 108.3701 cm
+Q
+q
+1 0 0 1 51.35433 94.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (47. An algorithm for solving a problem is a procedure that consists of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 78.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Infinite steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 64.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Finite number of discrete steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 50.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Random steps) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 28 0 R
+/F2 8 0 R
+/F2-0 29 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 2318
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) No steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 774.3701 cm
+Q
+q
+1 0 0 1 51.35433 760.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (48. An algorithm's steps must be performed in a:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Specified order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 730.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Random order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 716.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Changing order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 702.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Reverse order only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 696.3701 cm
+Q
+q
+1 0 0 1 51.35433 682.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (49. An algorithm should eventually reach a solution or report that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) The computer is off) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 652.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) There is no solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 638.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) The program is expensive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Input is large) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.3701 cm
+Q
+q
+1 0 0 1 51.35433 604.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (50. Which of the following is NOT a property of an algorithm?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 588.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (A\) Finiteness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 574.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (B\) Definiteness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 560.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (C\) Completeness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 3.5 Tm /F1 9.5 Tf 13 TL (D\) Entertainment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F2-0 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 4192
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 771.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 194.7675 0 Td (Answer Key) Tj T* -194.7675 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 481.3701 cm
+q
+0 0 0 rg
+BT /F2 11 Tf 12 TL ET
+BT 1 0 0 1 38.10198 261 Tm (1. B) Tj T* ET
+BT 1 0 0 1 134.4799 261 Tm (2. B) Tj T* ET
+BT 1 0 0 1 230.8579 261 Tm (3. B) Tj T* ET
+BT 1 0 0 1 327.2358 261 Tm (4. B) Tj T* ET
+BT 1 0 0 1 423.6138 261 Tm (5. A) Tj T* ET
+BT 1 0 0 1 38.10198 233 Tm (6. B) Tj T* ET
+BT 1 0 0 1 134.4799 233 Tm (7. B) Tj T* ET
+BT 1 0 0 1 230.8579 233 Tm (8. D) Tj T* ET
+BT 1 0 0 1 327.2358 233 Tm (9. B) Tj T* ET
+BT 1 0 0 1 420.5558 233 Tm (10. B) Tj T* ET
+BT 1 0 0 1 35.04398 205 Tm (11. B) Tj T* ET
+BT 1 0 0 1 131.4219 205 Tm (12. A) Tj T* ET
+BT 1 0 0 1 227.7999 205 Tm (13. B) Tj T* ET
+BT 1 0 0 1 324.1778 205 Tm (14. A) Tj T* ET
+BT 1 0 0 1 420.5558 205 Tm (15. B) Tj T* ET
+BT 1 0 0 1 35.04398 177 Tm (16. B) Tj T* ET
+BT 1 0 0 1 131.4219 177 Tm (17. C) Tj T* ET
+BT 1 0 0 1 227.7999 177 Tm (18. A) Tj T* ET
+BT 1 0 0 1 324.1778 177 Tm (19. C) Tj T* ET
+BT 1 0 0 1 420.5558 177 Tm (20. B) Tj T* ET
+BT 1 0 0 1 35.04398 149 Tm (21. C) Tj T* ET
+BT 1 0 0 1 131.4219 149 Tm (22. C) Tj T* ET
+BT 1 0 0 1 227.7999 149 Tm (23. B) Tj T* ET
+BT 1 0 0 1 324.1778 149 Tm (24. B) Tj T* ET
+BT 1 0 0 1 420.5558 149 Tm (25. A) Tj T* ET
+BT 1 0 0 1 35.04398 121 Tm (26. B) Tj T* ET
+BT 1 0 0 1 131.4219 121 Tm (27. A) Tj T* ET
+BT 1 0 0 1 227.7999 121 Tm (28. A) Tj T* ET
+BT 1 0 0 1 324.1778 121 Tm (29. A) Tj T* ET
+BT 1 0 0 1 420.5558 121 Tm (30. B) Tj T* ET
+BT 1 0 0 1 35.04398 93 Tm (31. B) Tj T* ET
+BT 1 0 0 1 131.4219 93 Tm (32. A) Tj T* ET
+BT 1 0 0 1 227.7999 93 Tm (33. B) Tj T* ET
+BT 1 0 0 1 324.1778 93 Tm (34. B) Tj T* ET
+BT 1 0 0 1 420.5558 93 Tm (35. A) Tj T* ET
+BT 1 0 0 1 35.04398 65 Tm (36. B) Tj T* ET
+BT 1 0 0 1 131.4219 65 Tm (37. B) Tj T* ET
+BT 1 0 0 1 227.7999 65 Tm (38. B) Tj T* ET
+BT 1 0 0 1 324.1778 65 Tm (39. B) Tj T* ET
+BT 1 0 0 1 420.5558 65 Tm (40. B) Tj T* ET
+BT 1 0 0 1 35.04398 37 Tm (41. B) Tj T* ET
+BT 1 0 0 1 131.4219 37 Tm (42. B) Tj T* ET
+BT 1 0 0 1 227.7999 37 Tm (43. B) Tj T* ET
+BT 1 0 0 1 324.1778 37 Tm (44. B) Tj T* ET
+BT 1 0 0 1 420.5558 37 Tm (45. B) Tj T* ET
+BT 1 0 0 1 35.04398 9 Tm (46. B) Tj T* ET
+BT 1 0 0 1 131.4219 9 Tm (47. B) Tj T* ET
+BT 1 0 0 1 227.7999 9 Tm (48. A) Tj T* ET
+BT 1 0 0 1 324.1778 9 Tm (49. B) Tj T* ET
+BT 1 0 0 1 420.5558 9 Tm (50. D) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 280 m 481.8898 280 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 280 l S
+n 481.8898 0 m 481.8898 280 l S
+n 0 252 m 481.8898 252 l S
+n 0 224 m 481.8898 224 l S
+n 0 196 m 481.8898 196 l S
+n 0 168 m 481.8898 168 l S
+n 0 140 m 481.8898 140 l S
+n 0 112 m 481.8898 112 l S
+n 0 84 m 481.8898 84 l S
+n 0 56 m 481.8898 56 l S
+n 0 28 m 481.8898 28 l S
+n 96.37795 0 m 96.37795 280 l S
+n 192.7559 0 m 192.7559 280 l S
+n 289.1339 0 m 289.1339 280 l S
+n 385.5118 0 m 385.5118 280 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 463.3701 cm
+Q
+q
+1 0 0 1 51.35433 449.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Important Algorithm Properties:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Finiteness:) Tj /F1 10 Tf ( An algorithm must terminate after a finite number of steps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 428.3701 cm
+Q
+q
+1 0 0 1 51.35433 414.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Definiteness:) Tj /F1 10 Tf ( All steps must be precisely defined and unambiguous.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 410.3701 cm
+Q
+q
+1 0 0 1 51.35433 396.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Completeness:) Tj /F1 10 Tf ( The rules must be complete so the algorithm can solve the problems of its intended class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.3701 cm
+Q
+q
+1 0 0 1 51.35433 378.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Efficiency:) Tj /F1 10 Tf ( An algorithm can be efficient or inefficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 374.3701 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 218.1183 12 Tm
+(Created by Muhammad Qasim Sahito) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000459 00000 n 
+0000006621 00000 n 
+0000006728 00000 n 
+0000006835 00000 n 
+0000006947 00000 n 
+0000007059 00000 n 
+0000007318 00000 n 
+0000013512 00000 n 
+0000013620 00000 n 
+0000013733 00000 n 
+0000013992 00000 n 
+0000020298 00000 n 
+0000020406 00000 n 
+0000020519 00000 n 
+0000020778 00000 n 
+0000027101 00000 n 
+0000027209 00000 n 
+0000027322 00000 n 
+0000027581 00000 n 
+0000033898 00000 n 
+0000034006 00000 n 
+0000034119 00000 n 
+0000034378 00000 n 
+0000036749 00000 n 
+0000036857 00000 n 
+0000036970 00000 n 
+0000037229 00000 n 
+0000041474 00000 n 
+0000041582 00000 n 
+trailer
+<<
+/Size 34
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+41695
+%%EOF
