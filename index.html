@@ -1,315 +1,500 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Study Hub | Notes & PDFs</title>
+<title>Qasim Sahito Academy</title>
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: Arial, sans-serif;
+<style>
+
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f7fb;
+    color:#172033;
+}
+
+header{
+    background:linear-gradient(135deg,#172554,#315bea,#6d4aff);
+    color:white;
+    padding:25px 20px;
+    text-align:center;
+}
+
+.logo{
+    width:65px;
+    height:65px;
+    margin:auto;
+    border-radius:18px;
+    background:white;
+    color:#315bea;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:23px;
+    font-weight:bold;
+}
+
+header h1{
+    margin-top:12px;
+    font-size:28px;
+}
+
+header p{
+    margin-top:7px;
+    opacity:.9;
+}
+
+.hero{
+    text-align:center;
+    padding:45px 20px;
+}
+
+.hero h2{
+    font-size:34px;
+    margin-bottom:12px;
+}
+
+.hero p{
+    color:#667085;
+    max-width:650px;
+    margin:auto;
+    line-height:1.6;
+}
+
+.section-title{
+    text-align:center;
+    margin:35px 20px 25px;
+}
+
+.section-title h2{
+    font-size:30px;
+}
+
+.subjects{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+    transition:.2s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.icon{
+    font-size:42px;
+    margin-bottom:15px;
+}
+
+.card h3{
+    margin-bottom:10px;
+}
+
+.card p{
+    color:#667085;
+    font-size:14px;
+    line-height:1.5;
+}
+
+.pdf-button{
+    display:inline-block;
+    margin-top:18px;
+    padding:11px 16px;
+    background:#315bea;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.pdf-button:hover{
+    background:#172554;
+}
+
+.resources{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:20px;
+}
+
+.resource{
+    background:white;
+    padding:25px;
+    border-radius:18px;
+    box-shadow:0 8px 25px rgba(0,0,0,.07);
+}
+
+.resource span{
+    color:#315bea;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.resource h3{
+    margin:10px 0;
+}
+
+.resource p{
+    color:#667085;
+    line-height:1.5;
+}
+
+.about{
+    max-width:1100px;
+    margin:50px auto;
+    padding:35px 20px;
+}
+
+.about-box{
+    background:#111a38;
+    color:white;
+    border-radius:25px;
+    padding:35px;
+    text-align:center;
+}
+
+.about-box p{
+    margin-top:12px;
+    color:#cbd3ee;
+    line-height:1.6;
+}
+
+footer{
+    margin-top:40px;
+    padding:25px;
+    text-align:center;
+    background:#111a38;
+    color:white;
+}
+
+@media(max-width:800px){
+
+    .subjects{
+        grid-template-columns:repeat(2,1fr);
     }
 
-    body {
-      background: #f4f7fb;
-      color: #222;
+    .resources{
+        grid-template-columns:1fr;
     }
 
-    header {
-      background: linear-gradient(135deg, #111827, #2563eb);
-      color: white;
-      text-align: center;
-      padding: 35px 15px;
+}
+
+@media(max-width:500px){
+
+    .subjects{
+        grid-template-columns:1fr;
     }
 
-    header h1 {
-      font-size: 32px;
-      margin-bottom: 10px;
+    .hero h2{
+        font-size:27px;
     }
 
-    header p {
-      font-size: 16px;
-      opacity: 0.9;
+    header h1{
+        font-size:23px;
     }
 
-    nav {
-      background: white;
-      padding: 12px;
-      text-align: center;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-    }
+}
 
-    nav a {
-      text-decoration: none;
-      color: #2563eb;
-      font-weight: bold;
-      margin: 0 10px;
-    }
+</style>
 
-    .container {
-      width: 92%;
-      max-width: 1100px;
-      margin: 30px auto;
-    }
-
-    .welcome {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-
-    .welcome h2 {
-      font-size: 28px;
-      margin-bottom: 8px;
-    }
-
-    .subjects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 20px;
-    }
-
-    .card {
-      background: white;
-      border-radius: 18px;
-      padding: 25px 20px;
-      text-align: center;
-      box-shadow: 0 5px 18px rgba(0,0,0,0.08);
-      transition: 0.3s;
-    }
-
-    .card:hover {
-      transform: translateY(-6px);
-    }
-
-    .icon {
-      font-size: 45px;
-      margin-bottom: 12px;
-    }
-
-    .card h3 {
-      font-size: 22px;
-      margin-bottom: 10px;
-    }
-
-    .card p {
-      color: #666;
-      font-size: 14px;
-      margin-bottom: 18px;
-    }
-
-    .btn {
-      display: inline-block;
-      background: #2563eb;
-      color: white;
-      padding: 11px 20px;
-      border-radius: 9px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .btn:hover {
-      background: #1d4ed8;
-    }
-
-    .pdf-section {
-      margin-top: 50px;
-    }
-
-    .pdf-section h2 {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    .pdf-box {
-      background: white;
-      margin-bottom: 15px;
-      padding: 18px;
-      border-radius: 12px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 15px;
-      box-shadow: 0 3px 12px rgba(0,0,0,0.06);
-    }
-
-    .pdf-info h3 {
-      margin-bottom: 5px;
-    }
-
-    .pdf-info p {
-      color: #777;
-      font-size: 13px;
-    }
-
-    footer {
-      margin-top: 50px;
-      background: #111827;
-      color: white;
-      text-align: center;
-      padding: 25px 15px;
-    }
-
-    footer p {
-      margin: 5px;
-    }
-
-    @media (max-width: 600px) {
-      header h1 {
-        font-size: 25px;
-      }
-
-      nav a {
-        display: inline-block;
-        margin: 5px;
-      }
-
-      .pdf-box {
-        flex-direction: column;
-        text-align: center;
-      }
-    }
-  </style>
 </head>
 
 <body>
 
-  <header>
-    <h1>📚 Study Hub</h1>
-    <p>Notes, PDFs & Study Material</p>
-  </header>
+<header>
 
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#subjects">Subjects</a>
-    <a href="#pdfs">PDF Notes</a>
-  </nav>
+    <div class="logo">
+        QS
+    </div>
 
-  <div class="container">
+    <h1>Qasim Sahito Academy</h1>
 
-    <section id="home" class="welcome">
-      <h2>Welcome to Study Hub 👋</h2>
-      <p>All your important study material in one place.</p>
-    </section>
+    <p>Learn • Practice • Improve</p>
 
-    <section id="subjects">
-      <div class="subjects">
+</header>
 
-        <div class="card">
-          <div class="icon">📐</div>
-          <h3>Mathematics</h3>
-          <p>Mathematics notes, MCQs and PDF material.</p>
-          <a href="#math" class="btn">Open Notes</a>
-        </div>
+<section class="hero">
 
-        <div class="card">
-          <div class="icon">⚡</div>
-          <h3>Physics</h3>
-          <p>Physics notes, formulas and practice material.</p>
-          <a href="#physics" class="btn">Open Notes</a>
-        </div>
+    <h2>Welcome to Qasim Sahito Academy</h2>
 
-        <div class="card">
-          <div class="icon">💻</div>
-          <h3>Computer</h3>
-          <p>Computer notes and important study PDFs.</p>
-          <a href="#computer" class="btn">Open Notes</a>
-        </div>
+    <p>
+        Mathematics, Physics, Computer Science and English
+        کے Notes, Exercises, MCQs اور PDF Study Material
+        ایک ہی جگہ پر۔
+    </p>
 
-        <div class="card">
-          <div class="icon">📖</div>
-          <h3>English</h3>
-          <p>English grammar, notes and practice PDFs.</p>
-          <a href="#english" class="btn">Open Notes</a>
-        </div>
+</section>
 
-      </div>
-    </section>
+<div class="section-title">
 
-    <section id="pdfs" class="pdf-section">
+    <h2>Our Subjects</h2>
 
-      <h2>📂 Study PDFs</h2>
+</div>
 
-      <!-- Mathematics -->
-      <div id="math" class="pdf-box">
-        <div class="pdf-info">
-          <h3>📐 Mathematics PDF</h3>
-          <p>Mathematics Notes & MCQs</p>
-        </div>
+<section class="subjects">
 
-        <!-- YAHAN APNA MATHEMATICS PDF LINK LAGAYEN -->
-        <a href="PASTE_MATH_PDF_LINK_HERE"
-           target="_blank"
-           class="btn">
-          View PDF
+    <!-- MATHEMATICS -->
+
+    <div class="card">
+
+        <div class="icon">📐</div>
+
+        <h3>Mathematics</h3>
+
+        <p>
+            Mathematics Notes, Exercises,
+            MCQs اور Practice Material
+        </p>
+
+        <a
+        class="pdf-button"
+        href="https://drive.google.com/file/d/1nUWl5wth0se48eBI1OJdbVDqel4MgFM1/view?usp=drivesdk"
+        target="_blank">
+
+            📄 Open Mathematics PDF
+
         </a>
-      </div>
+
+    </div>
 
 
-      <!-- Physics -->
-      <div id="physics" class="pdf-box">
-        <div class="pdf-info">
-          <h3>⚡ Physics PDF</h3>
-          <p>Physics Notes & MCQs</p>
-        </div>
+    <!-- PHYSICS -->
 
-        <!-- YAHAN APNA PHYSICS PDF LINK LAGAYEN -->
-        <a href="PASTE_PHYSICS_PDF_LINK_HERE"
-           target="_blank"
-           class="btn">
-          View PDF
+    <div class="card">
+
+        <div class="icon">⚛️</div>
+
+        <h3>Physics</h3>
+
+        <p>
+            Physics Notes, Numericals,
+            MCQs اور Exercises
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Physics PDF will be added soon.'); return false;">
+
+            📄 Open PDF
+
         </a>
-      </div>
+
+    </div>
 
 
-      <!-- Computer -->
-      <div id="computer" class="pdf-box">
-        <div class="pdf-info">
-          <h3>💻 Computer PDF</h3>
-          <p>Computer Notes & MCQs</p>
-        </div>
+    <!-- COMPUTER -->
 
-        <!--href="https://github.com/qasimsahito/qasim-sahito-academy/blob/326d338013a9baac60e59124938ba514a38ac00a/Chapter_4_Elements_of_Data_Processing_50_MCQs_Created_By_Muhammad_Qasim_Sahito%20(1).pdf"
-target="_blank"-->
-        <a href="https://github.com/qasimsahito/qasim-sahito-academy/blob/326d338013a9baac60e59124938ba514a38ac00a/Chapter_4_Elements_of_Data_Processing_50_MCQs_Created_By_Muhammad_Qasim_Sahito%20(1).pdf"
-target="_blank"
-           target="_blank"
-           class="btn">
-          View PDF
+    <div class="card">
+
+        <div class="icon">💻</div>
+
+        <h3>Computer</h3>
+
+        <p>
+            Computer Notes, Theory,
+            MCQs اور Exercises
+        </p>
+
+        <a
+        class="pdf-button"
+        href="https://github.com/qasimsahito/qasim-sahito-academy/blob/326d338013a9baac60e59124938ba514a38ac00a/Chapter_4_Elements_of_Data_Processing_50_MCQs_Created_By_Muhammad_Qasim_Sahito%20(1).pdf"
+        target="_blank">
+
+            📄 Open Computer PDF
+
         </a>
-      </div>
+
+    </div>
 
 
-      <!-- English -->
-      <div id="english" class="pdf-box">
-        <div class="pdf-info">
-          <h3>📖 English PDF</h3>
-          <p>English Grammar & Notes</p>
-        </div>
+    <!-- ENGLISH -->
 
-        <!-- YAHAN APNA ENGLISH PDF LINK LAGAYEN -->
-        <a href="PASTE_ENGLISH_PDF_LINK_HERE"
-           target="_blank"
-           class="btn">
-          View PDF
+    <div class="card">
+
+        <div class="icon">🔤</div>
+
+        <h3>English</h3>
+
+        <p>
+            English Grammar, Exercises,
+            Vocabulary اور Practice Material
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('English PDF will be added soon.'); return false;">
+
+            📄 Open PDF
+
         </a>
-      </div>
 
-    </section>
+    </div>
 
-  </div>
+</section>
 
-  <footer>
-    <p>📚 Study Hub</p>
-    <p>Made for Students ❤️</p>
-    <p>© 2026 All Rights Reserved</p>
-  </footer>
+
+<div class="section-title">
+
+    <h2>Latest Study Resources</h2>
+
+</div>
+
+<section class="resources">
+
+
+    <!-- MATHEMATICS RESOURCE -->
+
+    <div class="resource">
+
+        <span>MATHEMATICS • PDF</span>
+
+        <h3>Mathematics Study Material</h3>
+
+        <p>
+            Mathematics کے Notes,
+            Exercises اور Practice Material
+        </p>
+
+        <a
+        class="pdf-button"
+        href="https://drive.google.com/file/d/1nUWl5wth0se48eBI1OJdbVDqel4MgFM1/view?usp=drivesdk"
+        target="_blank">
+
+            Open Mathematics PDF →
+
+        </a>
+
+    </div>
+
+
+    <!-- PHYSICS RESOURCE -->
+
+    <div class="resource">
+
+        <span>PHYSICS • PDF</span>
+
+        <h3>Physics Study Material</h3>
+
+        <p>
+            یہاں بعد میں اپنی Physics
+            PDF کا link add کریں۔
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('Physics PDF will be added soon.'); return false;">
+
+            Open Physics PDF →
+
+        </a>
+
+    </div>
+
+
+    <!-- COMPUTER RESOURCE -->
+
+    <div class="resource">
+
+        <span>COMPUTER • PDF</span>
+
+        <h3>Computer Study Material</h3>
+
+        <p>
+            Computer Chapter 4 —
+            Elements of Data Processing
+            50 MCQs
+        </p>
+
+        <a
+        class="pdf-button"
+        href="https://github.com/qasimsahito/qasim-sahito-academy/blob/326d338013a9baac60e59124938ba514a38ac00a/Chapter_4_Elements_of_Data_Processing_50_MCQs_Created_By_Muhammad_Qasim_Sahito%20(1).pdf"
+        target="_blank">
+
+            Open Computer PDF →
+
+        </a>
+
+    </div>
+
+
+    <!-- ENGLISH RESOURCE -->
+
+    <div class="resource">
+
+        <span>ENGLISH • PDF</span>
+
+        <h3>English Study Material</h3>
+
+        <p>
+            یہاں بعد میں اپنی English
+            PDF کا link add کریں۔
+        </p>
+
+        <a
+        class="pdf-button"
+        href="#"
+        onclick="alert('English PDF will be added soon.'); return false;">
+
+            Open English PDF →
+
+        </a>
+
+    </div>
+
+</section>
+
+
+<section class="about">
+
+    <div class="about-box">
+
+        <h2>About Qasim Sahito Academy</h2>
+
+        <p>
+            A student-friendly study platform
+            for Mathematics, Physics, Computer
+            Science and English.
+        </p>
+
+    </div>
+
+</section>
+
+
+<footer>
+
+    © 2026 Qasim Sahito Academy
+
+    <br>
+
+    Educational Study Resource Website
+
+</footer>
 
 </body>
-  </html>
+
+</html>
